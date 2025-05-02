@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jaskaran Singh</h1>
-<h3 align="center">AI Researcher | MSc AI (Distinction), University of Nottingham | Deep Learning ⚙️ | Explainable AI 🔍 | Secure Systems 🔐</h3>
+<h3 align="center">AI Researcher | MSc AI (Distinction), University of Nottingham | Deep Learning ⚙️ | Explainable AI 🔍</h3>
 
 
 - 🎓 MSc in Computer Science (AI) with Distinction — University of Nottingham  
 - 💼 Currently working as Machine Learning Engineer at **IntelliDigest, Edinburgh**  
 - 🧠 Researcher in Deep Learning, Explainable AI, IoT, and Secure Systems  
 - 🧑‍🔬 Past affiliations: Samsung R&D, Atheropoint (USA), Ministry of Rural Development (India)  
-- 📝 Final dissertation: **MARLF – Multi-Attentive Residual Loss Function** for plant disease detection  
+- 📝 Final dissertation: **MARes – Multi-Attentive Residual Loss Function** for plant disease detection  
 - 📘 Developed XAI-based flood prediction, drone detection, and secure health protocols  
-- 💬 Ask me about: PyTorch, Vision Transformers, Secure AI, Graph AI, Geo-AI  
+- 💬 Ask me about: PyTorch, Vision Transformers, Secure AI, Super Resolution, Vision LLM, IoT  
 - 📫 How to reach me: jaskaran.jsk2001@gmail.com  
 - 🧩 Fun fact: I enjoy badminton 🏸 and hiking 🥾
 
@@ -28,6 +28,14 @@
   </a>
 </p>
 
+---
+
+## 🚀 Featured Projects
+
+- 🔬 **[MARes-Explainable-Plant-Disease-Identification](https://github.com/JaskaranSingh2001/MARes-Explainable-Plant-Disease-Identification)** – Novel multi-loss plant disease detection model with CAM/XAI
+- 🩺 **[TAUSR-CO](https://github.com/JaskaranSingh2001/TAUSR-CO)** – Adaptive super-resolution for ultrasound imaging
+- 🧠 **[FuzzyMedUrgency](https://github.com/JaskaranSingh2001/FuzzyMedUrgency)** – Medical emergency classification using fuzzy logic and visual rules
+- 🌾 **[IntelliDigest ML Platform](https://worldfoodtracker.com)** – Nutritional recommendation and satellite-based crop detection
 
 ---
 
@@ -41,40 +49,52 @@
 
 ---
 
-## 🔬 Research Publications
+
+
+## 🔬 Research Publications (Update 01/05/2025)
 
 <table>
-<tr><th>Title</th><th>Journal / Conference</th><th>Citations</th></tr>
-<tr><td>ASCP-IoMT: Secure protocol</td><td>IEEE Access, 2022</td><td>44</td></tr>
-<tr><td>ML Security for CPS</td><td>Computer Communications, 2022</td><td>43</td></tr>
-<tr><td>SINN-RD: Ransomware</td><td>Computers & Electrical Eng, 2023</td><td>36</td></tr>
-<tr><td>Smart Healthcare Security</td><td>Security and Privacy, 2022</td><td>27</td></tr>
-<tr><td>Depression Detection (Attention)</td><td>Diagnostics, 2023</td><td>21</td></tr>
-<tr><td>Ensemble IDS</td><td>IEEE Trans. Consumer Electronics, 2023</td><td>20</td></tr>
-<tr><td>Drone Blockchain Auth</td><td>Drones, 2023</td><td>17</td></tr>
-<tr><td>DermAI</td><td>Diagnostics, 2023</td><td>12</td></tr>
-<tr><td>LSTM for Depression</td><td>Procedia Computer Science, 2022</td><td>12</td></tr>
-<tr><td>XAI for Threat Hunting</td><td>Security and Privacy, 2023</td><td>11</td></tr>
-<tr><td>GeneAI 3.0</td><td>Scientific Reports, 2024</td><td>5</td></tr>
-<tr><td>Fog Computing Auth</td><td>Security and Privacy, 2024</td><td>5</td></tr>
-<tr><td>Drone Detection (IoT)</td><td>IEEE Open Journal Comm., 2023</td><td>5</td></tr>
-<tr><td>Malware Detection ITS</td><td>IEEE T-ITS, 2025</td><td>2</td></tr>
-<tr><td>Text Depression Detection</td><td>ISWAB'23</td><td>1</td></tr>
-<tr><td>DNP3 Intrusion Detection</td><td>Comp & Elec Eng, 2024</td><td>-</td></tr>
-<tr><td>VBSF-TLD Drone Scheme</td><td>arXiv</td><td>-</td></tr>
-<tr><td>Contextual IoT UX</td><td>Springer Book Chapter</td><td>-</td></tr>
+<tr><th>Title</th><th>Journal / Conference</th></tr>
+
+<tr><td>ASCP-IoMT: AI-enabled lightweight secure communication protocol for internet of medical things</td><td>IEEE Access</td></tr>
+
+<tr><td>Machine learning security attacks and defense approaches for emerging cyber physical applications: A comprehensive survey</td><td>Computer Communications</td></tr>
+
+<tr><td>SINN-RD: Spline interpolation-envisioned neural network-based ransomware detection scheme</td><td>Computers and Electrical Engineering</td></tr>
+
+<tr><td>Security in IoMT-driven smart healthcare: A comprehensive review and open challenges</td><td>Security and Privacy (Wiley)</td></tr>
+
+<tr><td>Attention-enabled ensemble deep learning models and their validation for depression detection: A domain adoption paradigm</td><td>Diagnostics</td></tr>
+
+<tr><td>An ensemble-based machine learning-envisioned intrusion detection in industry 5.0-driven healthcare applications</td><td>IEEE Transactions on Consumer Electronics</td></tr>
+
+<tr><td>Secure blockchain-enabled authentication key management framework with big data analytics for drones in networks beyond 5G applications</td><td>Drones</td></tr>
+
+<tr><td>DermAI 1.0: A robust, generalized, and novel attention-enabled ensemble-based transfer learning paradigm for multiclass classification of skin lesion images</td><td>Diagnostics</td></tr>
+
+<tr><td>An embedded LSTM based scheme for depression detection and analysis</td><td>Procedia Computer Science</td></tr>
+
+<tr><td>Explainable artificial intelligence envisioned security mechanism for cyber threat hunting</td><td>Security and Privacy (Wiley)</td></tr>
+
+<tr><td>GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides</td><td>Scientific Reports (Nature)</td></tr>
+
+<tr><td>A secure signature-based access control and key management scheme for fog computing-based IoT-enabled big data applications</td><td>Security and Privacy (Wiley)</td></tr>
+
+<tr><td>An Ensemble-Based IoT-Enabled Drones Detection Scheme for a Safe Community</td><td>IEEE Open Journal of the Communications Society</td></tr>
+
+<tr><td>Explainable Deep Learning-Enabled Malware Attack Detection for IoT-Enabled Intelligent Transportation Systems</td><td>IEEE Transactions on Intelligent Transportation Systems</td></tr>
+
+<tr><td>Unmasking Depression via Attention-modulated Text Analysis using Deep Learning</td><td>International Conference on Communication, Security and Artificial Intelligence (ISWAB’23)</td></tr>
+
+<tr><td>An effective intrusion detection scheme for Distributed Network Protocol 3 (DNP3) applied in SCADA-enabled IoT applications</td><td>Computers and Electrical Engineering</td></tr>
+
+<tr><td>VBSF-TLD: Validation-Based Approach for Soft Computing-Inspired Transfer Learning in Drone Detection</td><td>arXiv</td></tr>
+
+<tr><td>Design of a Contextual IoT Framework for the Improved User Experience and Services</td><td>Springer Book Chapter</td></tr>
+
 </table>
 
 📚 [View on Google Scholar](https://scholar.google.com/citations?user=vGXfF5kAAAAJ&hl=en)
-
----
-
-## 🚀 Featured Projects
-
-- 🔬 **[MARes-Explainable-Plant-Disease-Identification](https://github.com/JaskaranSingh2001/MARes-Explainable-Plant-Disease-Identification)** – Novel multi-loss plant disease detection model with CAM/XAI
-- 🩺 **[TAUSR-CO](https://github.com/JaskaranSingh2001/TAUSR-CO)** – Adaptive super-resolution for ultrasound imaging
-- 🧠 **[FuzzyMedUrgency](https://github.com/JaskaranSingh2001/FuzzyMedUrgency)** – Medical emergency classification using fuzzy logic and visual rules
-- 🌾 **IntelliDigest ML Platform** – Nutritional recommendation and satellite-based crop detection *(private repo)*
 
 ---
 
