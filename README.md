@@ -16,11 +16,18 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 
-<p align="left">
-<a href="https://uk.linkedin.com/in/jaskaran-singh-ai21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=vGXfF5kAAAAJ&hl=en" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&labelColor=blue" height="30" width="120" /></a>
-<a href="mailto:jaskaran.jsk2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-jaskaran.jsk2001@gmail.com-blue?style=flat-square&logo=gmail" height="30" width="200" /></a>
+<p align="center">
+  <a href="https://uk.linkedin.com/in/jaskaran-singh-ai21" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=vGXfF5kAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-black?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <a href="mailto:jaskaran.jsk2001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
 
 ---
 
@@ -77,21 +84,12 @@
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/flask/flask-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/>
-</p>
-
----
-
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=jaskaranksingh'></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaskaranksingh&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaranksingh&layout=compact&theme=radical" />
 </p>
 
 ---
